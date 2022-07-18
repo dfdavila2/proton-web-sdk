@@ -6,6 +6,7 @@
     "@proton/js": "^25.0.73",
     "@proton/web-sdk": "^4.1.14",
     "@tailwindcss/forms": "^0.4.0",
+    "parse-server": "^5.2.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "recoil": "^0.5.2"
